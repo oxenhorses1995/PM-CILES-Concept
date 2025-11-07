@@ -45,9 +45,6 @@ Imagine sitting in the command cabin: AIs work as a team, you steer the ship; ta
 
 **Summary:** Existing systems are mostly single-AI or unidirectional workflows, lacking the complete ecosystem of **"mutual critique + closed-loop iteration + user-as-PM leadership."**
 
-***特别说明：*** *DeepSeek作为高质量推理AI，在本系统概念设计中发挥了关键作用，体现了多AI协作的价值。*
-（别问我为什么没有其他AI   因为老子在中国   用不了 我透了 而且这个最终版是deepseek润色的 这狗贼嘎嘎抢功劳  我一开始问GPT的 然后再同步给gemini和deepseek 但是gpt狗贼对话限制了 只能靠deepseek来写 gemini最后完善发布）
-
 ## 2. System Concept & Methodology
 
 ### 2.1 System Roles
